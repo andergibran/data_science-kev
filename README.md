@@ -18,8 +18,6 @@ Project ini menggabungkan:
 
 Data dari ketiga sumber digabung menggunakan `cveID`.
 
-**Total data: 1,733 CVE**
-
 ---
 
 ## Business Questions
